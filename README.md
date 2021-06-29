@@ -26,8 +26,7 @@ Anotações de Prog2 - Java
 -  Simulação de chat cliente - servidor
 
 # Threads
--  Exemplo de uso do Synchronized para áreas críticas de execução
--  Banheiro / Tarefan°1 / Tarefan°2 / testaBanheiro
+-  Exemplo de uso do Synchronized para áreas críticas de execução ( Banheiro / Tarefan°1 / Tarefan°2 / testaBanheiro )
 
 # tratamentoDeEventos
 -  listeners de mouse e botão em uma interface gráfica
